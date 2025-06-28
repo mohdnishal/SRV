@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hero.css'
 import selfAss from '../../assets/self-assessment.svg';
-import review from '../../assets/reviw.svg';
+import review from '../../assets/Reviw.svg';
 import approval from '../../assets/approval.svg';
 import certification from '../../assets/certification.svg';
 import health from '../../assets/health.svg';
