@@ -1,0 +1,54 @@
+.register-box {
+  background-color: white;
+  padding: 30px;
+  border-radius: 27px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 360px;
+  height: 404px;
+  left: 130px;
+  position: relative;
+}
+
+.register-box h3 {
+  text-align: center;
+}
+
+.register-box input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.register-box button {
+  padding: 12px;
+  background-color: #039123;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.register-box p {
+  margin: 0;
+  text-align: center;
+  font-size: 14px;
+  color: #444;
+}
+
+.register-box .link {
+  color: #16a34a;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.right-content.login-view .register-box {
+  width: 360px;
+  height: 284px;
+  padding: 20px;
+  box-sizing: border-box;
+}
